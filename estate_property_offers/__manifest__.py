@@ -1,14 +1,16 @@
 {
     "name": "Estate Property Offers",
     "summary": "Manage property listings and offers",
-    "version": "18.0.1.0",
+    "version": "19.0.1.0",
     "author": "AppForge",
     "website": "https://www.odoo.com",
-    "license": "LGPL-3",
+    "license": "OPL-1",
     "category": "Sales",
     "depends": ["base"],
     "application": True,
     "installable": True,
+    "price": 16.95,
+    "currency": "EUR",
 
     "data": [
         "security/ir.model.access.csv",
