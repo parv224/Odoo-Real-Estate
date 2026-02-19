@@ -12,6 +12,11 @@
     "price": 16.95,
     "currency": "EUR",
 
+    "depends": [
+        "base",
+        "sales"
+    ],
+
     "data": [
         "security/ir.model.access.csv",
         "views/estate_property_type_views.xml",
