@@ -9,7 +9,7 @@
     "depends": ["base"],
     "application": True,
     "installable": True,
-    "price": 16.95\,
+    "price": 16.95,
     "currency": "EUR",
 
     "data": [
