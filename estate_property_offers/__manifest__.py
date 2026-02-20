@@ -11,7 +11,7 @@
     "price": 16.95,
     "currency": "EUR",
 
-    "depends": ["base", "sale_management", "feedback_form"],
+    "depends": ["base", "sales", "feedback_form"],
 
     "data": [
         "security/ir.model.access.csv",
