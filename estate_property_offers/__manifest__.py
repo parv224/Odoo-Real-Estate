@@ -6,13 +6,13 @@
     "website": "https://www.odoo.com",
     "license": "OPL-1",
     "category": "Sales",
-    "depends": ["base","sales"],
+    # "depends": [],
     "application": True,
     "installable": True,
     "price": 16.95,
     "currency": "EUR",
 
-    "depends": ["feedback_form"]
+    "depends": ["base","sales","feedback_form"],
 
 
     "data": [
